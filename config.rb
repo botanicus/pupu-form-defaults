@@ -2,7 +2,8 @@
 dependencies :mootools
 
 # javascripts for loading
-javascripts "form-defaults"
+javascript "form-defaults"
+stylesheet "form-defaults"
 
 # parameters of plugin
 # it will be blank in most cases

@@ -1,0 +1,10 @@
+.focused {
+  color: black;
+  font-style: normal;
+}
+
+.blured {
+  color: gray;
+  font-style: italic;
+  text-align: center;
+}
