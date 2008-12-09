@@ -1,4 +1,4 @@
-// Inspirated by http://davidwalsh.name/mootools-form-field-default-plugin
+// Inspired by http://davidwalsh.name/mootools-form-field-default-plugin
 // TODO: add custom class instead of gray color
 // TODO: maybe implements Events + custom hooks for Fx effects etc
 var FormDefaults = new Class({
